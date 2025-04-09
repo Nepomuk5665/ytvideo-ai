@@ -149,6 +149,8 @@ The system features sophisticated, content-aware transitions between video clips
 - **Multiple Fallbacks** - Guarantees smooth transitions even in error conditions
 - **Professional Effects** - Includes sophisticated film-like effects like grain, vignettes, and easing functions
 
+For detailed information about the transition system, see [IMPROVEMENTS.md](./IMPROVEMENTS.md)
+
 ## AI Models
 
 By default, the system uses Stability AI's Stable Video Diffusion model for text-to-video generation. You can change the model by setting the `MODEL_REPO` environment variable to a different Hugging Face model ID.
